@@ -3,3 +3,5 @@
 ## Gravando mudanças no repositório
 
 ## Salvando modificações
+
+##Salvando outras alterações no GIT
