@@ -2,6 +2,6 @@
 
 ## Gravando mudanças no repositório
 
-## Salvando modificações
+* comando git push
 
-##Salvando outras alterações no GIT
+
