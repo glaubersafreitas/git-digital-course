@@ -11,6 +11,8 @@
 * comendo git restore - restaura as arquivo anterior sem modificações / -- staged - restaura sem as alterações dessa área
 * comando git log - server pra ver todas as alterações feitas
 * git checkout branch - move o HEAD para a branch selecionada
+* Nova atualização
+
 
 
 
